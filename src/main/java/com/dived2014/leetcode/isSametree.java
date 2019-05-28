@@ -31,5 +31,6 @@ public class isSametree {
             return fun(p.left,q.left)&&fun(p.right,q.right);
         }
         return false;
+
     }
 }
